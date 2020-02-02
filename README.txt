@@ -1,0 +1,1 @@
+All the screenshots of the UI are in a pdf file named 'College Parking App'.
